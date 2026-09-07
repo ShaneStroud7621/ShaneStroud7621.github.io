@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="title description">
+    <title id="title">Hiking trail through green hills</title>
+    <desc id="description">A simple illustration of a marked trail winding through hills beneath a bright sun.</desc>
+    <rect width="800" height="360" fill="#dff3f2"/>
+    <circle cx="650" cy="80" r="44" fill="#f4b942"/>
+    <path d="M0 220 Q170 100 340 215 T800 150 V360 H0 Z" fill="#7fb685"/>
+    <path d="M0 275 Q180 170 370 270 T800 220 V360 H0 Z" fill="#4f8f62"/>
+    <path d="M400 360 C350 315 390 280 470 250 C530 227 585 211 625 178 C574 237 526 280 520 360 Z" fill="#d9b382"/>
+    <path d="M400 360 C386 325 430 295 494 268" fill="none" stroke="#fff0cf" stroke-width="8" stroke-linecap="round"/>
+    <path d="M119 229 l10 -38 l10 38 M124 212 h10" fill="none" stroke="#315b3b" stroke-width="6"/>
+    <path d="M710 206 l10 -38 l10 38 M715 189 h10" fill="none" stroke="#315b3b" stroke-width="6"/>
+</svg>
