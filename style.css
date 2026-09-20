@@ -188,6 +188,26 @@ footer p {
         padding: 2.5rem 1rem 2rem;
     }
 
+    header p {
+        font-size: 1rem;
+    }
+
+    nav {
+        margin-top: 1.5rem;
+    }
+
+    nav ul {
+        display: grid;
+        gap: 0.35rem;
+    }
+
+    nav a {
+        display: block;
+        padding: 0.55rem 0.75rem;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        border-radius: 4px;
+    }
+
     main {
         width: min(92%, 36rem);
         margin: 1.5rem auto;
@@ -198,9 +218,20 @@ footer p {
         padding: 1.25rem;
     }
 
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    figure {
+        margin-right: 0;
+        margin-left: 0;
+        padding: 0.65rem;
+    }
+
     table {
         display: block;
         overflow-x: auto;
+        max-width: 100%;
         white-space: nowrap;
     }
 }
