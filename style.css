@@ -80,6 +80,10 @@ main {
     margin: 2.5rem auto;
 }
 
+main > :last-child {
+    margin-bottom: 0;
+}
+
 section,
 article {
     margin-bottom: 2rem;
